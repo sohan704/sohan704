@@ -53,6 +53,12 @@ FunFlix is a responsive MERN stack web app with CRUD functionality and nested ro
 ## Live Link
 [Visit FunFlix](https://funflix-b16ab.web.app/)
 
+
+### Code Link
+Client Side code [click here](https://github.com/sohan704/funflix)
+
+Server Side code [click here](https://github.com/sohan704/funflix-server)
+
 ## Features
 - **Responsive Design**: Optimized for laptop, tablet, and mobile devices.
 - **Nested Routing**: Handles complex routing paths seamlessly.
@@ -72,6 +78,11 @@ A MERN stack web app for CRUD operations with JWT authentication.
 ### Live Link
 [Click Here](https://oglibrary-8c213.web.app/)
 
+### Code Link
+Client Side code [click here](https://github.com/sohan704/library-management-system)
+
+Server Side code [click here](https://github.com/sohan704/library-server)
+
 ### Features
 1. Cookie-based authentication (Google login and email/password).
 2. Protected routes for authenticated users.
@@ -89,6 +100,11 @@ Invy is a sleek Inventory Management System designed for shops, featuring a user
 
 ## Live Link
 [Check it out here](https://invy-ffcdc.web.app/)
+
+### Code Link
+Client Side code [click here](https://github.com/sohan704/invy)
+
+Server Side code [click here](https://github.com/sohan704/invy-server)
 
 ## Key Features
 - **User Roles & Authorization**
