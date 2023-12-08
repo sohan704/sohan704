@@ -43,7 +43,7 @@ Passionate Front-End React Developer adept in MERN stack, seamlessly crafting re
 
 ### These are 3 of my latest project
 
-#2. OGLibrary
+# -----------OGLibrary-----------
 
 A MERN stack web app for CRUD operations with JWT authentication.
 
@@ -60,7 +60,7 @@ A MERN stack web app for CRUD operations with JWT authentication.
 5. Borrowing and returning books with modal prompts.
 
 
-#3. Inventory Management System (Invy)
+# -----------Inventory Management System (Invy)-----------
 
 ## Overview
 Invy is a sleek Inventory Management System designed for shops, featuring a user-friendly interface, multiple user roles, and robust functionalities.
