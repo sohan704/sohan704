@@ -43,6 +43,25 @@ Passionate Front-End React Developer adept in MERN stack, seamlessly crafting re
 
 ### These are 3 of my latest project
 
+
+
+# ---------FunFlix-------------
+
+FunFlix is a responsive MERN stack web app with CRUD functionality and nested routing.
+
+## Features
+- **Responsive Design**: Optimized for laptop, tablet, and mobile devices.
+- **Nested Routing**: Handles complex routing paths seamlessly.
+- **Live Server Rendering**: CRUD operations are handled by a live backend server.
+- **CRUD Functionality**: Simulates real ecommerce site operations.
+- **Authentication**: Firebase authentication for email/password and Google login.
+
+## Live Link
+([Visit FunFlix](https://funflix-b16ab.web.app/))
+
+
+
+
 # -----------OGLibrary-----------
 
 A MERN stack web app for CRUD operations with JWT authentication.
