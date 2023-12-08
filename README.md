@@ -1,4 +1,4 @@
- <div style="display: flex; justify-content: center; align-items: center;">
+ <div style="display: flex; justify-content: center; align-items: center;  width: 100%;">
         <img src="https://raw.githubusercontent.com/sohan704/image-resources/main/Welcome_to_myGithub.png" alt="Trulli" style="max-width: 100%; height: auto;">
     </div>
 
