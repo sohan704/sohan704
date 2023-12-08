@@ -42,7 +42,7 @@ Passionate Front-End React Developer adept in MERN stack, seamlessly crafting re
 
 
 #                                These are 3 of my latest projects
-________________________________________________________________________________________________________
+
 
 
 
