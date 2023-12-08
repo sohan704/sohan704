@@ -41,7 +41,8 @@ Passionate Front-End React Developer adept in MERN stack, seamlessly crafting re
 <a href="https://github.com/sohan704" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan704&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-### These are 3 of my latest project
+#                                These are 3 of my latest projects
+________________________________________________________________________________________________________
 
 
 
