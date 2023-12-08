@@ -70,7 +70,7 @@ FunFlix is a responsive MERN stack web app with CRUD functionality and nested ro
 A MERN stack web app for CRUD operations with JWT authentication.
 
 ### Live Link
-[Click Here](https://library-management-74fff.web.app)
+[Click Here](https://oglibrary-8c213.web.app/)
 
 ### Features
 1. Cookie-based authentication (Google login and email/password).
