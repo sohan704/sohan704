@@ -40,6 +40,27 @@ Passionate Front-End React Developer adept in MERN stack, seamlessly crafting re
 
 <a href="https://github.com/sohan704" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohan704&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+## These are 3 of my latest project
+
+### OGLibrary
+
+A MERN stack web app for CRUD operations with JWT authentication.
+
+### Live Link
+[Click Here](https://library-management-74fff.web.app)
+
+### Features
+1. Cookie-based authentication (Google login and email/password).
+2. Protected routes for authenticated users.
+3. JWT verification before CRUD operations.
+
+### Book Management
+4. Book categories with filtering.
+5. Borrowing and returning books with modal prompts.
+
+
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/sohan704/invy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sohan704&repo=invy&title_color=ef4444&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/sohan704/library-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sohan704&repo=library-management-system&title_color=ef4444&text_color=0f172a&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
