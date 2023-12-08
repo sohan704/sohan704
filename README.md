@@ -1,5 +1,5 @@
  <div style="display: flex; justify-content: center; align-items: center;  width: 100%;">
-        <img src="https://raw.githubusercontent.com/sohan704/image-resources/main/Welcome_to_myGithub.png" alt="Trulli" style="max-width: 100%; height: auto;">
+        <img src="https://raw.githubusercontent.com/sohan704/image-resources/main/Welcome_to_myGithub.png" alt="Trulli" style="width: 100%; height: auto;">
     </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arid Sohan
