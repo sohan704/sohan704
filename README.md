@@ -43,7 +43,7 @@ Passionate Front-End React Developer adept in MERN stack, seamlessly crafting re
 
 ### These are 3 of my latest project
 
-## OGLibrary
+# OGLibrary
 
 A MERN stack web app for CRUD operations with JWT authentication.
 
@@ -58,6 +58,45 @@ A MERN stack web app for CRUD operations with JWT authentication.
 ### Book Management
 4. Book categories with filtering.
 5. Borrowing and returning books with modal prompts.
+
+
+# Inventory Management System (Invy)
+
+## Overview
+Invy is a sleek Inventory Management System designed for shops, featuring a user-friendly interface, multiple user roles, and robust functionalities.
+
+## Live Link
+[Check it out here](https://invy-ffcdc.web.app/)
+
+## Key Features
+- **User Roles & Authorization**
+  - System-Admin, Shop-Manager, and Logged-User roles
+  - Customized access levels
+
+- **Shop Management**
+  - Create private shops with details
+  - Product and sales management for Shop Managers
+
+- **Checkout & Payment**
+  - Generate PDF invoices
+  - Stripe integration for payments
+
+- **Data Visualization**
+  - React Recharts for sales summary
+
+## Bonus Features
+- Email sending with Nodemailer
+- Dynamic titling with React Helmet
+- Responsive design and animations
+
+## Tech Stack
+- React + Vite
+- Tailwind CSS, Daisy UI
+- Firebase hosting (client), Vercel hosting (server)
+
+
+
+
 
 
 
