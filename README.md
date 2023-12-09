@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arid Sohan
 ==================================================================================================================================
 
-React Front-End Developer
+##About Me
 -------------------------
 
 Passionate Front-End React Developer adept in MERN stack, seamlessly crafting responsive and visually stunning interfaces. Proven track record in developing end-to-end applications, harmonizing user-centric design with robust back-end functionality. Eager to elevate user experiences through innovative solutions.
