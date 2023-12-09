@@ -12,7 +12,7 @@ Passionate Front-End React Developer adept in MERN stack, seamlessly crafting re
 
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my latest project [Here](http:///invy-ffcdc.web.app/)
-* ✉️  You can contact me at [aridsohan0@gmail.com](mailto:aridsohan0@gmail.com)
+* ✉️  You can contact me at [skaridsohan2001@gmail.com](mailto:skaridsohan2001@gmail.com)
 * 🚀  I'm currently working on [Invy](http://github.com/sohan704/invy)
 * 🧠  I'm learning Advanced CSS & JS animation
 * 🤝  I'm open to collaborating on awesome-react-components
